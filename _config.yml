@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Bhanumati Seervi"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Roboticist"
   location         : "Gurugram, India"
-  employer         : "Red Brick University"
+  employer         : "Indian Institute of Technology Jodhpur"
   uri              : # URL
   email            : "bhanumatiseervi2@gmail.com" 
 
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "bhanu29180"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -64,9 +64,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "seervi_bhanu"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Bhanumati Seervi"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -79,7 +79,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "@roboticslab1"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
